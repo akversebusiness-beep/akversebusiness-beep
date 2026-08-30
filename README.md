@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<a href="https://itsaayush2004.github.io/portfolio/"><img src="assets/portfolio-button.svg" alt="My 3D Portfolio — scroll to see" width="640" /></a>
+<a href="https://itsaayush2004.github.io/portfolio/"><img src="assets/portfolio-button.svg" alt="Click here — scroll to see" width="640" /></a>
 
 </div>
 
